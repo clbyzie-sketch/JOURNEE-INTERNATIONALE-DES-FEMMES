@@ -1,2 +1,3 @@
-# JOURN-E-INTERNATIONALE-DES-FEMMES
- À l’occasion de cette journée, rappelons-nous les valeurs que reflète la femme. 
+# JOURNÉE-INTERNATIONALE-DES-FEMMES
+ À l’occasion de cette journée, rappelons-nous les valeurs que reflètent les femmes en les célébrant.
+ ✨🌷🫶🏽
