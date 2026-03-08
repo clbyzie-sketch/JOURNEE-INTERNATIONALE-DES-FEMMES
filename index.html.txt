@@ -67,4 +67,9 @@
   </script>
 </body>
 </html>
+<!-- Vidéo personnelle -->
+<video controls>
+  <source src="video.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas la lecture vidéo.
+</video>
   
